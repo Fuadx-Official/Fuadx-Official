@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Md. Abdullah Al Fuad
+- 😁 I'm 20years old.
+- 👀 I’m interested in coding(c++, java, python), Game development, Machine Lerning and gaming.
+- 🌱 I’m currently learning advance game development and app development.
+- 💞️ I’m looking to collaborate on Game development(Need : Model designer).
